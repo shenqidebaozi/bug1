@@ -1,0 +1,78 @@
+2019-03-01 13:10:51,451 INFO 56024 [egg:logger] init all loggers with options: {"dir":"/Users/baozhecheng/test/bug/logs/bug","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"bug-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-01 13:10:51,495 INFO 56024 [egg-multipart] stream mode enable
+2019-03-01 13:10:51,566 INFO 56024 [egg-static] starting static serve /public/ -> /Users/baozhecheng/test/bug/app/public
+2019-03-01 13:10:51,569 INFO 56024 [egg-security] use csrf middleware
+2019-03-01 13:10:51,569 INFO 56024 [egg-security] use methodnoallow middleware
+2019-03-01 13:10:51,570 INFO 56024 [egg-security] use noopen middleware
+2019-03-01 13:10:51,571 INFO 56024 [egg-security] use nosniff middleware
+2019-03-01 13:10:51,571 INFO 56024 [egg-security] use xssProtection middleware
+2019-03-01 13:10:51,572 INFO 56024 [egg-security] use xframe middleware
+2019-03-01 13:10:51,572 INFO 56024 [egg-security] use dta middleware
+2019-03-01 13:10:51,572 INFO 56024 [egg-security] compose 7 middlewares into one security middleware
+2019-03-01 13:10:51,580 INFO 56024 [egg:core] dump config after load, 4ms
+2019-03-01 13:10:51,592 INFO 56024 [egg-watcher:application] watcher start success
+2019-03-01 13:10:51,597 INFO 56024 [egg:core] dump config after ready, 3ms
+2019-03-01 13:12:05,449 INFO 56218 [egg:logger] init all loggers with options: {"dir":"/Users/baozhecheng/test/bug/logs/bug","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"bug-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-01 13:12:05,486 INFO 56218 [egg-multipart] stream mode enable
+2019-03-01 13:12:05,579 INFO 56218 [egg-static] starting static serve /public/ -> /Users/baozhecheng/test/bug/app/public
+2019-03-01 13:12:05,582 INFO 56218 [egg-security] use csrf middleware
+2019-03-01 13:12:05,583 INFO 56218 [egg-security] use methodnoallow middleware
+2019-03-01 13:12:05,584 INFO 56218 [egg-security] use noopen middleware
+2019-03-01 13:12:05,585 INFO 56218 [egg-security] use nosniff middleware
+2019-03-01 13:12:05,586 INFO 56218 [egg-security] use xssProtection middleware
+2019-03-01 13:12:05,587 INFO 56218 [egg-security] use xframe middleware
+2019-03-01 13:12:05,588 INFO 56218 [egg-security] use dta middleware
+2019-03-01 13:12:05,588 INFO 56218 [egg-security] compose 7 middlewares into one security middleware
+2019-03-01 13:12:05,597 WARN 56218 dumpConfig error: EACCES: permission denied, open '/Users/baozhecheng/test/bug/run/application_config.json'
+2019-03-01 13:12:05,599 WARN 56218 dumpConfig router.json error: EACCES: permission denied, open '/Users/baozhecheng/test/bug/run/router.json'
+2019-03-01 13:12:05,600 INFO 56218 [egg:core] dump config after load, 6ms
+2019-03-01 13:12:05,614 INFO 56218 [egg-watcher:application] watcher start success
+2019-03-01 13:12:05,618 WARN 56218 dumpConfig error: EACCES: permission denied, open '/Users/baozhecheng/test/bug/run/application_config.json'
+2019-03-01 13:12:05,618 WARN 56218 dumpConfig router.json error: EACCES: permission denied, open '/Users/baozhecheng/test/bug/run/router.json'
+2019-03-01 13:12:05,619 INFO 56218 [egg:core] dump config after ready, 3ms
+2019-03-01 13:15:34,030 INFO 56782 [egg:logger] init all loggers with options: {"dir":"/Users/baozhecheng/test/bug/logs/bug","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"bug-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-01 13:15:34,064 INFO 56782 [egg-multipart] stream mode enable
+2019-03-01 13:15:34,125 INFO 56782 [egg-static] starting static serve /public/ -> /Users/baozhecheng/test/bug/app/public
+2019-03-01 13:15:34,127 INFO 56782 [egg-security] use csrf middleware
+2019-03-01 13:15:34,128 INFO 56782 [egg-security] use methodnoallow middleware
+2019-03-01 13:15:34,129 INFO 56782 [egg-security] use noopen middleware
+2019-03-01 13:15:34,129 INFO 56782 [egg-security] use nosniff middleware
+2019-03-01 13:15:34,130 INFO 56782 [egg-security] use xssProtection middleware
+2019-03-01 13:15:34,130 INFO 56782 [egg-security] use xframe middleware
+2019-03-01 13:15:34,131 INFO 56782 [egg-security] use dta middleware
+2019-03-01 13:15:34,131 INFO 56782 [egg-security] compose 7 middlewares into one security middleware
+2019-03-01 13:15:34,264 WARN 56782 dumpConfig error: EACCES: permission denied, open '/Users/baozhecheng/test/bug/run/application_config.json'
+2019-03-01 13:15:34,266 WARN 56782 dumpConfig router.json error: EACCES: permission denied, open '/Users/baozhecheng/test/bug/run/router.json'
+2019-03-01 13:15:34,266 INFO 56782 [egg:core] dump config after load, 5ms
+2019-03-01 13:15:34,300 INFO 56782 [egg-watcher:application] watcher start success
+2019-03-01 13:15:34,317 WARN 56782 dumpConfig error: EACCES: permission denied, open '/Users/baozhecheng/test/bug/run/application_config.json'
+2019-03-01 13:15:34,317 WARN 56782 dumpConfig router.json error: EACCES: permission denied, open '/Users/baozhecheng/test/bug/run/router.json'
+2019-03-01 13:15:34,318 INFO 56782 [egg:core] dump config after ready, 7ms
+2019-03-01 13:19:32,823 INFO 57355 [egg:logger] init all loggers with options: {"dir":"/Users/baozhecheng/test/bug/logs/bug","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"bug-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-01 13:19:32,858 INFO 57355 [egg-multipart] stream mode enable
+2019-03-01 13:19:32,922 INFO 57355 [egg-static] starting static serve /public/ -> /Users/baozhecheng/test/bug/app/public
+2019-03-01 13:19:32,925 INFO 57355 [egg-security] use csrf middleware
+2019-03-01 13:19:32,925 INFO 57355 [egg-security] use methodnoallow middleware
+2019-03-01 13:19:32,926 INFO 57355 [egg-security] use noopen middleware
+2019-03-01 13:19:32,927 INFO 57355 [egg-security] use nosniff middleware
+2019-03-01 13:19:32,927 INFO 57355 [egg-security] use xssProtection middleware
+2019-03-01 13:19:32,928 INFO 57355 [egg-security] use xframe middleware
+2019-03-01 13:19:32,928 INFO 57355 [egg-security] use dta middleware
+2019-03-01 13:19:32,928 INFO 57355 [egg-security] compose 7 middlewares into one security middleware
+2019-03-01 13:19:32,937 INFO 57355 [egg:core] dump config after load, 6ms
+2019-03-01 13:19:32,962 INFO 57355 [egg-watcher:application] watcher start success
+2019-03-01 13:19:32,971 INFO 57355 [egg:core] dump config after ready, 5ms
+2019-03-01 13:19:49,711 INFO 57386 [egg:logger] init all loggers with options: {"dir":"/Users/baozhecheng/test/bug/logs/bug","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"bug-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-01 13:19:49,764 INFO 57386 [egg-multipart] stream mode enable
+2019-03-01 13:19:49,853 INFO 57386 [egg-static] starting static serve /public/ -> /Users/baozhecheng/test/bug/app/public
+2019-03-01 13:19:49,856 INFO 57386 [egg-security] use csrf middleware
+2019-03-01 13:19:49,857 INFO 57386 [egg-security] use methodnoallow middleware
+2019-03-01 13:19:49,858 INFO 57386 [egg-security] use noopen middleware
+2019-03-01 13:19:49,859 INFO 57386 [egg-security] use nosniff middleware
+2019-03-01 13:19:49,860 INFO 57386 [egg-security] use xssProtection middleware
+2019-03-01 13:19:49,860 INFO 57386 [egg-security] use xframe middleware
+2019-03-01 13:19:49,861 INFO 57386 [egg-security] use dta middleware
+2019-03-01 13:19:49,861 INFO 57386 [egg-security] compose 7 middlewares into one security middleware
+2019-03-01 13:19:49,871 INFO 57386 [egg:core] dump config after load, 7ms
+2019-03-01 13:19:49,909 INFO 57386 [egg-watcher:application] watcher start success
+2019-03-01 13:19:49,915 INFO 57386 [egg:core] dump config after ready, 3ms

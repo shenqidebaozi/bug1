@@ -1,0 +1,18 @@
+2019-03-01 13:10:51,603 INFO 56020 [Timer] /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 38948400ms at 2019-03-02 00:00:00.003
+2019-03-01 13:10:51,603 INFO 56020 [Timer] /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 38949397ms at 2019-03-02 00:00:01.000
+2019-03-01 13:10:51,494 INFO 56024 [egg-schedule]: register schedule /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-01 13:10:51,494 INFO 56024 [egg-schedule]: register schedule /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-01 13:12:05,486 INFO 56218 [egg-schedule]: register schedule /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-01 13:12:05,486 INFO 56218 [egg-schedule]: register schedule /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-01 13:12:05,625 INFO 56217 [Timer] /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 38874378ms at 2019-03-02 00:00:00.003
+2019-03-01 13:12:05,625 INFO 56217 [Timer] /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 38875375ms at 2019-03-02 00:00:01.000
+2019-03-01 13:15:34,063 INFO 56782 [egg-schedule]: register schedule /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-01 13:15:34,063 INFO 56782 [egg-schedule]: register schedule /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-01 13:15:34,327 INFO 56779 [Timer] /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 38665676ms at 2019-03-02 00:00:00.003
+2019-03-01 13:15:34,328 INFO 56779 [Timer] /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 38666673ms at 2019-03-02 00:00:01.001
+2019-03-01 13:19:32,981 INFO 57354 [Timer] /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 38427024ms at 2019-03-02 00:00:00.005
+2019-03-01 13:19:32,982 INFO 57354 [Timer] /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 38428019ms at 2019-03-02 00:00:01.001
+2019-03-01 13:19:32,857 INFO 57355 [egg-schedule]: register schedule /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-01 13:19:32,857 INFO 57355 [egg-schedule]: register schedule /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-01 13:19:49,763 INFO 57386 [egg-schedule]: register schedule /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-01 13:19:49,763 INFO 57386 [egg-schedule]: register schedule /Users/baozhecheng/test/bug/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
